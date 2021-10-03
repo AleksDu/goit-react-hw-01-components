@@ -1,9 +1,9 @@
 {
-   "files.autoSave": "onFocusChange",
-     "editor.formatOnSave": true,
-     "editor.codeActionsOnSave": { "source.fixAll.eslint": true 
-      } 
-    ,
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +14,7 @@
     "@testing-library/user-event": "^12.8.3",
     "gh-pages": "^3.2.3",
     "onchange": "^7.1.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
